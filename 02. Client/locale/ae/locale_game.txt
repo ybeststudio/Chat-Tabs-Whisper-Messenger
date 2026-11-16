@@ -1,0 +1,10 @@
+AFF_LOVE_POINT	‰ﬁ«ÿ «·Õ»: %d%%
+CHAT_INSULT_STRING	«·Ã„·…  Õ ÊÌ ⁄·Ï ﬂ·„«  „ıŒ·… »«·√œ».
+MESSENGER_ADD_BLOCK_FRIEND	≈÷«›…
+MESSENGER_ADD_FRIEND	≈÷«›… ’œÌﬁ
+MESSENGER_BLOCK	 „ «·ÕŸ—
+MESSENGER_DO_YOU_DELETE	Â·  —Ìœ Õ–›Âø
+MESSENGER_FAMILY	⁄«∆·…
+MESSENGER_FRIEND	√’œﬁ«¡
+MESSENGER_GUILD	—«»ÿ…
+RECEIVE_MESSAGE	%s √—”· ·ﬂ —”«·….

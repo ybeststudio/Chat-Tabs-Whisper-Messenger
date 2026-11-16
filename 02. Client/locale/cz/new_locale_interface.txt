@@ -1,0 +1,11 @@
+CHAT_TAB_ALL	Vše
+CHAT_TAB_DROP	Drop
+CHAT_TAB_DUNGEON	Dungeon
+CHAT_TAB_EXCHANGE	Výmìna
+CHAT_TAB_GENERAL	Všichni
+CHAT_TAB_GUILD	Cech
+CHAT_TAB_INFO	Informace
+CHAT_TAB_MULTI_SELECT	- Podrž pro výbìr více položek
+CHAT_TAB_NORMAL	Normální
+CHAT_TAB_START_CHAT	- Spustit chat
+CHAT_TAB_STOP_CHAT	- Zastavit chat

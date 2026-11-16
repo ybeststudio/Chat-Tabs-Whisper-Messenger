@@ -1,0 +1,10 @@
+AFF_LOVE_POINT	Szerelmi pont: %d%%
+CHAT_INSULT_STRING	A mondat nem megengedett szavakat tartalmaz.
+MESSENGER_ADD_BLOCK_FRIEND	Hozzáadás
+MESSENGER_ADD_FRIEND	Barát hozzáadása
+MESSENGER_BLOCK	Blokkolt
+MESSENGER_DO_YOU_DELETE	Töröl?
+MESSENGER_FAMILY	Család
+MESSENGER_FRIEND	Barátok
+MESSENGER_GUILD	Céh
+RECEIVE_MESSAGE	%s üzenetet küldött neked.

@@ -1,0 +1,10 @@
+AFF_LOVE_POINT	Body za lásku: %d%%
+CHAT_INSULT_STRING	Vìta obsahuje nepøípustná slova.
+MESSENGER_ADD_BLOCK_FRIEND	Pøidat
+MESSENGER_ADD_FRIEND	Pøidat pøítele
+MESSENGER_BLOCK	Blokováno
+MESSENGER_DO_YOU_DELETE	Smazat?
+MESSENGER_FAMILY	Rodina
+MESSENGER_FRIEND	Pøátelé
+MESSENGER_GUILD	Cech
+RECEIVE_MESSAGE	%s ti poslal/a zprávu.

@@ -1,0 +1,63 @@
+AUTO_CTRL	Ctrl
+AUTO_RECENTLY_USED	Utilizate recent
+AUTO_SEARCH	Cautã...
+AUTO_TAB	Tab
+BIOLOG_READY	Poþi livra urmãtorul obiect!
+BIOLOG_SENDER	[Biolog]
+CHAT_TAB_ALL	Toate
+CHAT_TAB_DROP	Picãturã
+CHAT_TAB_DUNGEON	Temnita
+CHAT_TAB_EXCHANGE	Schimb
+CHAT_TAB_GENERAL	Toti
+CHAT_TAB_GUILD	Breasla
+CHAT_TAB_INFO	Info
+CHAT_TAB_MULTI_SELECT	- Þine apãsat pentru selecþie multiplã
+CHAT_TAB_NORMAL	Normal
+CHAT_TAB_START_CHAT	- Porneºte chatul
+CHAT_TAB_STOP_CHAT	- Opreºte chatul
+GUILD_WINDOW_MENU_EXCLUDE	Exclude membrul
+MESSENGER_ADD_FAVORITE	Adaugã la favorite
+MESSENGER_FAVORITES	Favorite
+MESSENGER_FRIEND_CHANNEL	CH%d
+MESSENGER_FRIEND_OFFLINE	Offline
+MESSENGER_FRIEND_ONLINE	Online
+MESSENGER_OFFLINE_DAYS	Deconectat de %d zile
+MESSENGER_OFFLINE_HOURS	Deconectat de %d h
+MESSENGER_OFFLINE_MINUTES	Deconectat de %d min
+MESSENGER_OFFLINE_RECENT	Deconectat de <1 min
+MESSENGER_REMOVE_FAVORITE	Eliminã din favorite
+MESSENGER_SLOT_TOOLTIP	Dublu click pentru a deschide soapta
+MESSENGER_TEAM	Administratori
+WHISPER_MESSENGER_ADD_FRIEND	Adauga prieten
+WHISPER_MESSENGER_BLOCK	Blocheaza
+WHISPER_MESSENGER_DELETE_CONVERSATION	Conversaþia cu %s sã fie ºtearsã?
+WHISPER_MESSENGER_ENVELOPE	[MESSENGER]
+WHISPER_MESSENGER_GLOBAL_TITLE	Anka2 Global
+WHISPER_MESSENGER_GUILD	Breasla
+WHISPER_MESSENGER_GUILD_INVITE	Invitã în breaslã
+WHISPER_MESSENGER_INPUT_HINT	Scrie mesajul
+WHISPER_MESSENGER_LEVEL_REQUIRED	Trebuie sã ai cel puþin nivelul %d pentru a trimite mesaje de chat.
+WHISPER_MESSENGER_MENU_COPY	Copiazã
+WHISPER_MESSENGER_MENU_MUTE	Dezactiveazã notificãrile conversatiei
+WHISPER_MESSENGER_MENU_REACT	Reactioneazã
+WHISPER_MESSENGER_MENU_REPLY	Rãspunde
+WHISPER_MESSENGER_MENU_UNMUTE	Activeazã notificãrile conversatiei
+WHISPER_MESSENGER_MENU_WHISPER	Soapta
+WHISPER_MESSENGER_NEW_MESSAGE	Mesaj nou
+WHISPER_MESSENGER_NO_SUCH_PLAYER	Nu existã un astfel de jucãtor.
+WHISPER_MESSENGER_OFFLINE_ASK	[%s] nu este online. Sã se trimitã un mesaj offline?
+WHISPER_MESSENGER_OFFLINE_COST	Trimiterea unui mesaj offline costã %s Yang.
+WHISPER_MESSENGER_OFFLINE_SENT	Mesajul offline a fost trimis. Te-a costat 500.000 Yang.
+WHISPER_MESSENGER_OPEN_SHOP	Deschide magazinul jucatorului
+WHISPER_MESSENGER_REPLY_TO	Rãspuns pentru %s
+WHISPER_MESSENGER_RULES_TITLE	Regulile chatului
+WHISPER_MESSENGER_RULE_1	- Fãrã mesaje de cumpãrare sau vânzare.
+WHISPER_MESSENGER_RULE_2	- Respectã ceilalti jucãtori.
+WHISPER_MESSENGER_RULE_3	- Fãrã spam sau publicitate.
+WHISPER_MESSENGER_SEARCH	Cauta...
+WHISPER_MESSENGER_TITLE	Mesaje private
+WHISPER_MESSENGER_TODAY	Astãzi
+WHISPER_MESSENGER_UNREAD_DIVIDER	Mesaje necitite: %d
+WHISPER_MESSENGER_YESTERDAY	Ieri
+WHISPER_TOOLTIP_CLOSE_SHORTCUT	|Eemoji/key/ctrl|e + |Eemoji/key/mouse_left|e - Închidere rapidã
+WIKI_WHISPER_NAME	[WIKI]

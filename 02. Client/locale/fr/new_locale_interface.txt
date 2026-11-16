@@ -1,0 +1,11 @@
+CHAT_TAB_ALL	Tout
+CHAT_TAB_DROP	Drop
+CHAT_TAB_DUNGEON	Donjon
+CHAT_TAB_EXCHANGE	Échange
+CHAT_TAB_GENERAL	Tous
+CHAT_TAB_GUILD	Guilde
+CHAT_TAB_INFO	Info
+CHAT_TAB_MULTI_SELECT	- Maintenir pour sélection multiple
+CHAT_TAB_NORMAL	Normal
+CHAT_TAB_START_CHAT	- Démarrer le chat
+CHAT_TAB_STOP_CHAT	- Arrêter le chat

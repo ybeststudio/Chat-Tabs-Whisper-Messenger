@@ -1,0 +1,11 @@
+CHAT_TAB_ALL	гАъА
+CHAT_TAB_DROP	гАшДгфЦ
+CHAT_TAB_DUNGEON	гАрДргДи
+CHAT_TAB_EXCHANGE	гАйхгоА
+CHAT_TAB_GENERAL	згЦ
+CHAT_TAB_GUILD	гАДчгхи
+CHAT_TAB_INFO	гАЦзАФЦгй
+CHAT_TAB_MULTI_SELECT	- гжшь ЦьФАгП ААгнйМгя гАЦйзоо
+CHAT_TAB_NORMAL	згоМ
+CHAT_TAB_START_CHAT	- хоа гАояоти
+CHAT_TAB_STOP_CHAT	- еМчгщ гАояоти

@@ -1,0 +1,63 @@
+AUTO_CTRL	Ctrl
+AUTO_RECENTLY_USED	Récemment utilisés
+AUTO_SEARCH	Rechercher...
+AUTO_TAB	Tab
+BIOLOG_READY	Vous pouvez remettre le prochain objet !
+BIOLOG_SENDER	[Biologiste]
+CHAT_TAB_ALL	Tout
+CHAT_TAB_DROP	Drop
+CHAT_TAB_DUNGEON	Donjon
+CHAT_TAB_EXCHANGE	Échange
+CHAT_TAB_GENERAL	Tous
+CHAT_TAB_GUILD	Guilde
+CHAT_TAB_INFO	Info
+CHAT_TAB_MULTI_SELECT	- Maintenir pour sélection multiple
+CHAT_TAB_NORMAL	Normal
+CHAT_TAB_START_CHAT	- Démarrer le chat
+CHAT_TAB_STOP_CHAT	- Arrêter le chat
+GUILD_WINDOW_MENU_EXCLUDE	Exclure le membre
+MESSENGER_ADD_FAVORITE	Ajouter aux favoris
+MESSENGER_FAVORITES	Favoris
+MESSENGER_FRIEND_CHANNEL	CH%d
+MESSENGER_FRIEND_OFFLINE	Hors ligne
+MESSENGER_FRIEND_ONLINE	En ligne
+MESSENGER_OFFLINE_DAYS	Hors ligne depuis %d j
+MESSENGER_OFFLINE_HOURS	Hors ligne depuis %d h
+MESSENGER_OFFLINE_MINUTES	Hors ligne depuis %d min
+MESSENGER_OFFLINE_RECENT	Hors ligne depuis <1 min
+MESSENGER_REMOVE_FAVORITE	Retirer des favoris
+MESSENGER_SLOT_TOOLTIP	Double-clic pour ouvrir le chuchotement
+MESSENGER_TEAM	Administrateurs
+WHISPER_MESSENGER_ADD_FRIEND	Ajouter un ami
+WHISPER_MESSENGER_BLOCK	Bloquer
+WHISPER_MESSENGER_DELETE_CONVERSATION	Supprimer la conversation avec %s ?
+WHISPER_MESSENGER_ENVELOPE	[MESSENGER]
+WHISPER_MESSENGER_GLOBAL_TITLE	Anka2 Global
+WHISPER_MESSENGER_GUILD	Guilde
+WHISPER_MESSENGER_GUILD_INVITE	Inviter dans la guilde
+WHISPER_MESSENGER_INPUT_HINT	Saisissez votre message
+WHISPER_MESSENGER_LEVEL_REQUIRED	Vous devez être au moins niveau %d pour envoyer un message de chat.
+WHISPER_MESSENGER_MENU_COPY	Copier
+WHISPER_MESSENGER_MENU_MUTE	Mettre la conversation en sourdine
+WHISPER_MESSENGER_MENU_REACT	Réagir
+WHISPER_MESSENGER_MENU_REPLY	Répondre
+WHISPER_MESSENGER_MENU_UNMUTE	Réactiver les notifications
+WHISPER_MESSENGER_MENU_WHISPER	PM
+WHISPER_MESSENGER_NEW_MESSAGE	Nouveau message
+WHISPER_MESSENGER_NO_SUCH_PLAYER	Ce joueur n'existe pas.
+WHISPER_MESSENGER_OFFLINE_ASK	[%s] n'est pas en ligne. Envoyer un message hors ligne ?
+WHISPER_MESSENGER_OFFLINE_COST	L'envoi d'un message hors ligne coûte %s Yang.
+WHISPER_MESSENGER_OFFLINE_SENT	Le message hors ligne a été envoyé. Cela vous a coûté 500 000 yangs.
+WHISPER_MESSENGER_OPEN_SHOP	Ouvrir la boutique du joueur
+WHISPER_MESSENGER_REPLY_TO	Réponse à %s
+WHISPER_MESSENGER_RULES_TITLE	Règles du salon
+WHISPER_MESSENGER_RULE_1	- Pas de messages d’achat ou de vente.
+WHISPER_MESSENGER_RULE_2	- Respectez les autres joueurs.
+WHISPER_MESSENGER_RULE_3	- Pas de spam ni de publicité.
+WHISPER_MESSENGER_SEARCH	Rechercher...
+WHISPER_MESSENGER_TITLE	Messages privés
+WHISPER_MESSENGER_TODAY	Aujourd’hui
+WHISPER_MESSENGER_UNREAD_DIVIDER	%d messages non lus
+WHISPER_MESSENGER_YESTERDAY	Hier
+WHISPER_TOOLTIP_CLOSE_SHORTCUT	|Eemoji/key/ctrl|e + |Eemoji/key/mouse_left|e - Fermeture rapide
+WIKI_WHISPER_NAME	[WIKI]

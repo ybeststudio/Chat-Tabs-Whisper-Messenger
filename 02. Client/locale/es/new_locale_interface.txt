@@ -1,0 +1,11 @@
+CHAT_TAB_ALL	Todo
+CHAT_TAB_DROP	Drop
+CHAT_TAB_DUNGEON	Mazmorra
+CHAT_TAB_EXCHANGE	Intercambio
+CHAT_TAB_GENERAL	Todo
+CHAT_TAB_GUILD	Gremio
+CHAT_TAB_INFO	Info
+CHAT_TAB_MULTI_SELECT	- Mantén pulsado para selección múltiple
+CHAT_TAB_NORMAL	Normal
+CHAT_TAB_START_CHAT	- Iniciar chat
+CHAT_TAB_STOP_CHAT	- Detener chat

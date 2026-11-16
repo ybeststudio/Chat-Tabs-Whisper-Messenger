@@ -1,0 +1,63 @@
+AUTO_CTRL	Ctrl
+AUTO_RECENTLY_USED	Zuletzt verwendet
+AUTO_SEARCH	Suchen...
+AUTO_TAB	Tab
+BIOLOG_READY	Du kannst den nächsten Gegenstand abgeben!
+BIOLOG_SENDER	[Biologe]
+CHAT_TAB_ALL	Alle
+CHAT_TAB_DROP	Drop
+CHAT_TAB_DUNGEON	Dungeon
+CHAT_TAB_EXCHANGE	Handel
+CHAT_TAB_GENERAL	Alle
+CHAT_TAB_GUILD	Gilde
+CHAT_TAB_INFO	Info
+CHAT_TAB_MULTI_SELECT	- Zur Mehrfachauswahl gedrückt halten
+CHAT_TAB_NORMAL	Normal
+CHAT_TAB_START_CHAT	- Chat starten
+CHAT_TAB_STOP_CHAT	- Chat stoppen
+GUILD_WINDOW_MENU_EXCLUDE	Mitglied entfernen
+MESSENGER_ADD_FAVORITE	Zu Favoriten hinzufügen
+MESSENGER_FAVORITES	Favoriten
+MESSENGER_FRIEND_CHANNEL	CH%d
+MESSENGER_FRIEND_OFFLINE	Offline
+MESSENGER_FRIEND_ONLINE	Online
+MESSENGER_OFFLINE_DAYS	Offline seit %d T.
+MESSENGER_OFFLINE_HOURS	Offline seit %d Std.
+MESSENGER_OFFLINE_MINUTES	Offline seit %d Min.
+MESSENGER_OFFLINE_RECENT	Offline seit <1 Min.
+MESSENGER_REMOVE_FAVORITE	Aus Favoriten entfernen
+MESSENGER_SLOT_TOOLTIP	Doppelklick zum Fluestern
+MESSENGER_TEAM	Verwalter
+WHISPER_MESSENGER_ADD_FRIEND	Freund hinzufügen
+WHISPER_MESSENGER_BLOCK	Blockieren
+WHISPER_MESSENGER_DELETE_CONVERSATION	Soll die Unterhaltung mit %s gelöscht werden?
+WHISPER_MESSENGER_ENVELOPE	[MESSENGER]
+WHISPER_MESSENGER_GLOBAL_TITLE	Anka2 Global
+WHISPER_MESSENGER_GUILD	Gilde
+WHISPER_MESSENGER_GUILD_INVITE	In die Gilde einladen
+WHISPER_MESSENGER_INPUT_HINT	Nachricht eingeben
+WHISPER_MESSENGER_LEVEL_REQUIRED	Um Chatnachrichten zu senden, musst du mindestens Stufe %d sein.
+WHISPER_MESSENGER_MENU_COPY	Kopieren
+WHISPER_MESSENGER_MENU_MUTE	Unterhaltung stummschalten
+WHISPER_MESSENGER_MENU_REACT	Reagieren
+WHISPER_MESSENGER_MENU_REPLY	Antworten
+WHISPER_MESSENGER_MENU_UNMUTE	Stummschaltung aufheben
+WHISPER_MESSENGER_MENU_WHISPER	Flüstern
+WHISPER_MESSENGER_NEW_MESSAGE	Neue Nachricht
+WHISPER_MESSENGER_NO_SUCH_PLAYER	Diesen Spieler gibt es nicht.
+WHISPER_MESSENGER_OFFLINE_ASK	[%s] ist nicht online. Soll eine Offline-Nachricht gesendet werden?
+WHISPER_MESSENGER_OFFLINE_COST	Das Senden einer Offline-Nachricht kostet %s Yang.
+WHISPER_MESSENGER_OFFLINE_SENT	Die Offline-Nachricht wurde gesendet. Es hat dich 500.000 Yang gekostet.
+WHISPER_MESSENGER_OPEN_SHOP	Shop des Spielers öffnen
+WHISPER_MESSENGER_REPLY_TO	Antwort auf %s
+WHISPER_MESSENGER_RULES_TITLE	Chatregeln
+WHISPER_MESSENGER_RULE_1	- Keine Kauf- oder Verkaufsnachrichten.
+WHISPER_MESSENGER_RULE_2	- Respektiere andere Spieler.
+WHISPER_MESSENGER_RULE_3	- Kein Spam und keine Werbung.
+WHISPER_MESSENGER_SEARCH	Suchen...
+WHISPER_MESSENGER_TITLE	Privatnachrichten
+WHISPER_MESSENGER_TODAY	Heute
+WHISPER_MESSENGER_UNREAD_DIVIDER	%d ungelesene Nachrichten
+WHISPER_MESSENGER_YESTERDAY	Gestern
+WHISPER_TOOLTIP_CLOSE_SHORTCUT	|Eemoji/key/ctrl|e + |Eemoji/key/mouse_left|e - Schnell schließen
+WIKI_WHISPER_NAME	[WIKI]

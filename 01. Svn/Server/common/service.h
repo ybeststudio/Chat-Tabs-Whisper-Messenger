@@ -1,0 +1,3 @@
+// Ekle:
+#define ENABLE_CHAT_TABS
+#define ENABLE_MESSENGER_DETAILS

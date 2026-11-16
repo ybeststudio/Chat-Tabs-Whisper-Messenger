@@ -1,0 +1,10 @@
+AFF_LOVE_POINT	Punkty Mi³osne: %d%%
+CHAT_INSULT_STRING	To zdanie zawiera niepoprawne s³owa.
+MESSENGER_ADD_BLOCK_FRIEND	Dodaj
+MESSENGER_ADD_FRIEND	Dodaj Przyjaciela
+MESSENGER_BLOCK	Zablokowany
+MESSENGER_DO_YOU_DELETE	Usun¹æ?
+MESSENGER_FAMILY	Rodzina
+MESSENGER_FRIEND	Znajomi
+MESSENGER_GUILD	Gildia
+RECEIVE_MESSAGE	%s wys³a³ Ci wiadomoœæ.

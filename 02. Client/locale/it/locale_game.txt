@@ -1,0 +1,10 @@
+AFF_LOVE_POINT	Punto amore: %d%%
+CHAT_INSULT_STRING	La frase contiene parole proibite
+MESSENGER_ADD_BLOCK_FRIEND	Aggiungi
+MESSENGER_ADD_FRIEND	Aggiungi amico
+MESSENGER_BLOCK	Bloccato
+MESSENGER_DO_YOU_DELETE	Cancelli?
+MESSENGER_FAMILY	Famiglia
+MESSENGER_FRIEND	Amici
+MESSENGER_GUILD	Gilda
+RECEIVE_MESSAGE	%s ti ha mandato un messaggio.

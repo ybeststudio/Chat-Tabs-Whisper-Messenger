@@ -1,0 +1,63 @@
+AUTO_CTRL	Ctrl
+AUTO_RECENTLY_USED	Usados recientemente
+AUTO_SEARCH	Buscar...
+AUTO_TAB	Tab
+BIOLOG_READY	¡Ya puedes entregar el siguiente objeto!
+BIOLOG_SENDER	[Biólogo]
+CHAT_TAB_ALL	Todo
+CHAT_TAB_DROP	Drop
+CHAT_TAB_DUNGEON	Mazmorra
+CHAT_TAB_EXCHANGE	Intercambio
+CHAT_TAB_GENERAL	Todo
+CHAT_TAB_GUILD	Gremio
+CHAT_TAB_INFO	Info
+CHAT_TAB_MULTI_SELECT	- Mantén pulsado para selección múltiple
+CHAT_TAB_NORMAL	Normal
+CHAT_TAB_START_CHAT	- Iniciar chat
+CHAT_TAB_STOP_CHAT	- Detener chat
+GUILD_WINDOW_MENU_EXCLUDE	Expulsar miembro
+MESSENGER_ADD_FAVORITE	Añadir a favoritos
+MESSENGER_FAVORITES	Favoritos
+MESSENGER_FRIEND_CHANNEL	CH%d
+MESSENGER_FRIEND_OFFLINE	Desconectado
+MESSENGER_FRIEND_ONLINE	Conectado
+MESSENGER_OFFLINE_DAYS	Desconectado %d d
+MESSENGER_OFFLINE_HOURS	Desconectado %d h
+MESSENGER_OFFLINE_MINUTES	Desconectado %d min
+MESSENGER_OFFLINE_RECENT	Desconectado <1 min
+MESSENGER_REMOVE_FAVORITE	Quitar de favoritos
+MESSENGER_SLOT_TOOLTIP	Doble clic para abrir Susurro
+MESSENGER_TEAM	Administradores
+WHISPER_MESSENGER_ADD_FRIEND	Añadir Amigo
+WHISPER_MESSENGER_BLOCK	Bloquear
+WHISPER_MESSENGER_DELETE_CONVERSATION	¿Borrar la conversación con %s?
+WHISPER_MESSENGER_ENVELOPE	[MENSAJERO]
+WHISPER_MESSENGER_GLOBAL_TITLE	Anka2 Global
+WHISPER_MESSENGER_GUILD	Gremio
+WHISPER_MESSENGER_GUILD_INVITE	Invitar al gremio
+WHISPER_MESSENGER_INPUT_HINT	Escribe tu mensaje
+WHISPER_MESSENGER_LEVEL_REQUIRED	Debes ser al menos de nivel %d para enviar mensajes de chat.
+WHISPER_MESSENGER_MENU_COPY	Copiar
+WHISPER_MESSENGER_MENU_MUTE	Silenciar conversación
+WHISPER_MESSENGER_MENU_REACT	Reaccionar
+WHISPER_MESSENGER_MENU_REPLY	Responder
+WHISPER_MESSENGER_MENU_UNMUTE	Activar notificaciones
+WHISPER_MESSENGER_MENU_WHISPER	Conversación
+WHISPER_MESSENGER_NEW_MESSAGE	Nuevo mensaje
+WHISPER_MESSENGER_NO_SUCH_PLAYER	No existe tal jugador.
+WHISPER_MESSENGER_OFFLINE_ASK	[%s] no está en línea. ¿Enviar un mensaje sin conexión?
+WHISPER_MESSENGER_OFFLINE_COST	Enviar un mensaje sin conexión cuesta %s Yang.
+WHISPER_MESSENGER_OFFLINE_SENT	El mensaje sin conexión ha sido enviado. Te ha costado 500.000 Yang.
+WHISPER_MESSENGER_OPEN_SHOP	Abrir la tienda del jugador
+WHISPER_MESSENGER_REPLY_TO	Respuesta a %s
+WHISPER_MESSENGER_RULES_TITLE	Reglas del chat
+WHISPER_MESSENGER_RULE_1	- No se permiten mensajes de compra o venta.
+WHISPER_MESSENGER_RULE_2	- Respeta a los demás jugadores.
+WHISPER_MESSENGER_RULE_3	- No se permite spam ni publicidad.
+WHISPER_MESSENGER_SEARCH	Buscar...
+WHISPER_MESSENGER_TITLE	Mensajes privados
+WHISPER_MESSENGER_TODAY	Hoy
+WHISPER_MESSENGER_UNREAD_DIVIDER	%d mensajes sin leer
+WHISPER_MESSENGER_YESTERDAY	Ayer
+WHISPER_TOOLTIP_CLOSE_SHORTCUT	|Eemoji/key/ctrl|e + |Eemoji/key/mouse_left|e - Cierre rápido
+WIKI_WHISPER_NAME	[WIKI]

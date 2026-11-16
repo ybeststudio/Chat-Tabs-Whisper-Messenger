@@ -1,0 +1,10 @@
+AFF_LOVE_POINT	Liebespunkte: %d%%
+CHAT_INSULT_STRING	Der Satz enthält unzulässige Wörter.
+MESSENGER_ADD_BLOCK_FRIEND	Hinzufügen
+MESSENGER_ADD_FRIEND	Freund hinzufügen
+MESSENGER_BLOCK	Blockiert
+MESSENGER_DO_YOU_DELETE	Löschen?
+MESSENGER_FAMILY	Familie
+MESSENGER_FRIEND	Freunde
+MESSENGER_GUILD	Gilde
+RECEIVE_MESSAGE	%s hat dir eine Nachricht gesendet.

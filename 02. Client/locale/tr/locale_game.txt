@@ -1,0 +1,12 @@
+AFF_LOVE_POINT	Sevgi Puaný: %%%d
+CHAT_INSULT_STRING	Bu cümle yanlýþ kelimeler içeriyor.
+MESSENGER_ADD_BLOCK_FRIEND	Ekle
+MESSENGER_ADD_FRIEND	Arkadaþ ekle
+MESSENGER_BLOCK	Engellendi
+MESSENGER_DO_YOU_DELETE	Sil?
+MESSENGER_FAMILY	Aile
+MESSENGER_FRIEND	Arkadaþlar
+MESSENGER_GUILD	Lonca
+MESSENGER_TEAM	Yöneticiler
+RECEIVE_MESSAGE	%s mesaj gönderdi.
+WHISPER_TOOLTIP_CLOSE_SHORTCUT	|Eemoji/key/ctrl|e + |Eemoji/key/mouse_left|e - Hýzlý kapatma

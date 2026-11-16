@@ -1,0 +1,10 @@
+AFF_LOVE_POINT	Punct de dragoste: %d%%
+CHAT_INSULT_STRING	Propoziþia conþine cuvinte nepermise.
+MESSENGER_ADD_BLOCK_FRIEND	Adaugã
+MESSENGER_ADD_FRIEND	Adaugã prieten
+MESSENGER_BLOCK	Blocat
+MESSENGER_DO_YOU_DELETE	ªterge?
+MESSENGER_FAMILY	Familie
+MESSENGER_FRIEND	Prieteni
+MESSENGER_GUILD	Breaslã
+RECEIVE_MESSAGE	%s þi-a trimis un mesaj.

@@ -1,0 +1,11 @@
+CHAT_TAB_ALL	Összes
+CHAT_TAB_DROP	Csepp
+CHAT_TAB_DUNGEON	Dungeon
+CHAT_TAB_EXCHANGE	Csere
+CHAT_TAB_GENERAL	Minden
+CHAT_TAB_GUILD	Céh
+CHAT_TAB_INFO	Infó
+CHAT_TAB_MULTI_SELECT	- Többszörös kijelöléshez tartsd lenyomva
+CHAT_TAB_NORMAL	Normális
+CHAT_TAB_START_CHAT	- Chat indítása
+CHAT_TAB_STOP_CHAT	- Chat leállítása

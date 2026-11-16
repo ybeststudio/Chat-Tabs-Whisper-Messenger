@@ -1,0 +1,10 @@
+AFF_LOVE_POINT	Puntos de amor: %d%%
+CHAT_INSULT_STRING	Esta frase contiene palabras inválidas.
+MESSENGER_ADD_BLOCK_FRIEND	Añadir
+MESSENGER_ADD_FRIEND	Añadir Amigo
+MESSENGER_BLOCK	Bloqueado
+MESSENGER_DO_YOU_DELETE	¿Borrar?
+MESSENGER_FAMILY	Familia
+MESSENGER_FRIEND	Amigos
+MESSENGER_GUILD	Gremio
+RECEIVE_MESSAGE	%s te ha enviado un mensaje.

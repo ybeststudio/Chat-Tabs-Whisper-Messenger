@@ -1,0 +1,10 @@
+AFF_LOVE_POINT	Point d'amour : %d%%
+CHAT_INSULT_STRING	Cette phrase contient des mots invalides
+MESSENGER_ADD_BLOCK_FRIEND	Ajouter
+MESSENGER_ADD_FRIEND	Ajouter un ami
+MESSENGER_BLOCK	Bloqué
+MESSENGER_DO_YOU_DELETE	Supprimer ?
+MESSENGER_FAMILY	Famille
+MESSENGER_FRIEND	Ami
+MESSENGER_GUILD	Guilde
+RECEIVE_MESSAGE	%s vous envoie un message.

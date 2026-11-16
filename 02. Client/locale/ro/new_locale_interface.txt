@@ -1,0 +1,11 @@
+CHAT_TAB_ALL	Toate
+CHAT_TAB_DROP	Picãturã
+CHAT_TAB_DUNGEON	Temnita
+CHAT_TAB_EXCHANGE	Schimb
+CHAT_TAB_GENERAL	Toti
+CHAT_TAB_GUILD	Breasla
+CHAT_TAB_INFO	Info
+CHAT_TAB_MULTI_SELECT	- Þine apãsat pentru selecþie multiplã
+CHAT_TAB_NORMAL	Normal
+CHAT_TAB_START_CHAT	- Porneºte chatul
+CHAT_TAB_STOP_CHAT	- Opreºte chatul

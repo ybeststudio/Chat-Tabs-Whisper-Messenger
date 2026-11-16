@@ -1,0 +1,11 @@
+CHAT_TAB_ALL	Tutto
+CHAT_TAB_DROP	Gocciolare
+CHAT_TAB_DUNGEON	Dungeon
+CHAT_TAB_EXCHANGE	Scambio
+CHAT_TAB_GENERAL	Tutti
+CHAT_TAB_GUILD	Gilda
+CHAT_TAB_INFO	Info
+CHAT_TAB_MULTI_SELECT	- Tieni premuto per la selezione multipla
+CHAT_TAB_NORMAL	Normale
+CHAT_TAB_START_CHAT	- Avvia chat
+CHAT_TAB_STOP_CHAT	- Ferma chat

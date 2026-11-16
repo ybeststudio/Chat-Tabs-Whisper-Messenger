@@ -1,0 +1,10 @@
+// Ara:
+	CHAT_TYPE_MISSION,
+
+// Altina ekle:
+#ifdef ENABLE_CHAT_TABS
+	CHAT_TYPE_DUNGEON,
+	CHAT_TYPE_EXCHANGE,
+	CHAT_TYPE_DROP,
+#endif
+
